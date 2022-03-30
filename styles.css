@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    padding: 32px;
+  }
+
+  header {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.hamburger-logo{
+  
+}
